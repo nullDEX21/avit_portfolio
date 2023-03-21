@@ -106,7 +106,7 @@ a {
 }
 
 img {
-  display: block;
+  display: flexbox;
   width: 100%;
 }
 
@@ -321,7 +321,9 @@ footer {
 }
 
 footer > p {
-  margin: 2rem;
+  padding: 5rem;
+  text-align: center;
+  margin: auto;
 }
 
 footer i {
