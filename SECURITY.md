@@ -1,20 +1,3 @@
-# 🛡️ Security Policy
-
-## 📌 Supported Versions
-
-Kami secara aktif memberikan pembaruan keamanan untuk versi berikut:
-
-| Version | Status Dukungan     | Catatan                                |
-| ------- | ------------------ | -------------------------------------- |
-| 5.1.x   | ✅ Didukung        | Menerima semua pembaruan keamanan.    |
-| 5.0.x   | ❌ Tidak Didukung  | Harap tingkatkan ke versi terbaru.    |
-| 4.0.x   | ✅ Didukung        | Hanya menerima perbaikan kritis.      |
-| < 4.0   | ❌ Tidak Didukung  | Disarankan untuk diperbarui.          |
-
-### Catatan  
-- **Versi LTS (Long Term Support)** mendapatkan perbaikan keamanan hingga 2 tahun setelah rilis utama.  
-- **Versi Non-LTS** mendapatkan perbaikan keamanan hanya selama 6 bulan setelah rilis terbaru.  
-
 ## 🚨 Reporting a Vulnerability
 
 Jika Anda menemukan kerentanan dalam proyek ini, harap segera laporkan dengan langkah berikut:
